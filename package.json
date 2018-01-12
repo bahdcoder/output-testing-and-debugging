@@ -1,0 +1,32 @@
+{
+  "name": "testing-and-debugging-output",
+  "version": "1.0.0",
+  "description": "Test it like you own it! write a test for a function that takes an array of numbers as its arguments and returns two arrays, one containing even numbers and the other, odd numbers. This function should also take in a number as an argument and return two arrays one containing even numbers and the other, odd numbers between zero and the argument. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelAbaniwo/testing-and-debugging-output.git"
+  },
+  "keywords": [
+    "Testing and Debugging",
+    "Javascript"
+  ],
+  "author": "Rachel Abaniwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelAbaniwo/testing-and-debugging-output/issues"
+  },
+  "homepage": "https://github.com/RachelAbaniwo/testing-and-debugging-output#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-jest": "^22.0.4",
+    "jest": "^22.0.4",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
+
